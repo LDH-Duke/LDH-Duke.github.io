@@ -23,7 +23,7 @@ name                     : "Lee Dong Hee"
 description              : "."
 url                      : "https://LDH-Duke.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "LDH-Duke/LDH-Duke.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "LDH-Duke/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/myimages.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "photon-dark" # "github-light" (default), "github-dark"
+    theme                : "dark-blue" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
